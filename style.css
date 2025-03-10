@@ -1,3 +1,4 @@
+*
 {
     margin:0 ;
     padding: 0;
@@ -22,8 +23,8 @@
 }
 .head
 {
-  color:orangered;
-  font-weight: 700;
+  color:#ffffff;
+  font-weight: 500;
 }
 h1
 {
@@ -47,7 +48,7 @@ h1
   }
  
   .input-wrapper {
-    background-color: orangered;
+    background-color: blueviolet;
     padding: 1.87em 1.5em;
     border-radius: 0.5em;
     box-shadow: 0 0.93em 1.25em rgba(0, 0, 0, 0.3);
